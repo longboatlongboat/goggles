@@ -5,7 +5,7 @@
 ! license: MIT
 
 $boost=2,site=10.com.au
-$boost=2,site=thefp.com
+$boost=3,site=thefp.com
 $boost=2,site=112.international
 $boost=2,site=123srilanka.com
 $boost=2,site=1spotmedia.com
